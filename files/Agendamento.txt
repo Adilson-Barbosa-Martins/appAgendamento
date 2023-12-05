@@ -1,0 +1,4 @@
+2023-12-10 10:00;Corte de Cabelo;Joao Silva;Carlos Dias
+2023-12-11 14:00;Manicure;Ana Paula;Sofia Alves
+2023-12-12 16:00;Massagem;Pedro Santos;Lucas Moura
+2023-12-13 13:00;Limpeza de Pele;Maria Oliveira;Fernanda Costa

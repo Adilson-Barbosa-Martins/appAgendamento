@@ -1,0 +1,4 @@
+Carlos Dias;carlos@mail.com;senha102;Cabeleireiro
+Sofia Alves;sofia@mail.com;senha103;Manicure
+Lucas Moura;lucas@mail.com;senha104;Massagista
+Fernanda Costa;fernanda@mail.com;senha105;Esteticista

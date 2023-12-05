@@ -1,0 +1,8 @@
+Joao Silva;joao@mail.com;senha123
+Ana Paula;ana@mail.com;senha456
+Pedro Santos;pedro@mail.com;senha789
+Maria Oliveira;maria@mail.com;senha101
+Carlos Dias;carlos@mail.com;senha102
+Sofia Alves;sofia@mail.com;senha103
+Lucas Moura;lucas@mail.com;senha104
+Fernanda Costa;fernanda@mail.com;senha105
